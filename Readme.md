@@ -1,6 +1,6 @@
 # La violencia
 ## ¿Es necesaria la violencia?
-Para poder empezar de lleno hablando de si es necesaria o no, es esencial saber que es la violencia _La violencia son aquellos actos que tengan que ver con el ejercicio de una fuerza verbal o física sobre otra persona, animal u objeto y que tenga por resultado la generación de un daño sobre esa persona u objeto de manera voluntaria o accidental.-EcuRed, 2018_
+Para poder empezar de lleno hablando de si es necesaria o no, es esencial saber que es la violencia _La violencia son aquellos actos que tengan que ver con el ejercicio de una fuerza verbal o física sobre otra persona, animal u objeto y que tenga por resultado la generación de un daño sobre esa persona u objeto de manera voluntaria o accidental.-[EcuRed, 2018](https://www.ecured.cu/Violencia)_
 
 
 La violencia es el abuso de poder, ya que mientras más poder y control se tiene más violencia se puede generar, aunque también hay ocasiones en que la violencia ocurre también de abajo hacia arriba, como por ejemplo, una ama de casa que le exige dinero a su esposo y hace que trabaje horas extra. Al practicar la violencia, se falta al respeto hacia quien o quienes se le esté haciendo.
@@ -35,7 +35,13 @@ La ira se puede lidiar con los siguientes pasos:
 
 5. Revisa tu progreso. Después de que hayas actuado y la situación haya finalizado, dedica algo de tiempo a pensar sobre cómo estuvo.
 Otras maneras de resolver los problemas de la ira puede ser hacer ejercicio, escuchar música, escribir acerca de ello, dibujar, meditar o respirar profundamente, hablar con alguien de confianza y distraerse viendo la TV, leer libros o ir al cine para despejarse de lo que está pasando. Todo esto te ayuda a controlar cuando sientes que vas a explotar y el enojo en general.
-_(TeensHealth, 2015)_
+
+
+_[(TeensHealth, 2015)](https://kidshealth.org/es/teens/deal-with-anger-esp.html)_
+
+
 ### Referencias
-<https://www.ecured.cu/Violencia> 
-<https://kidshealth.org/es/teens/deal-with-anger-esp.html>
+* <https://www.ecured.cu/Violencia>
+
+
+* <https://kidshealth.org/es/teens/deal-with-anger-esp.html>
