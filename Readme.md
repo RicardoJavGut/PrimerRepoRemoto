@@ -43,7 +43,7 @@ Otras maneras de resolver los problemas de la ira puede ser hacer ejercicio, esc
 _[(TeensHealth, 2015)](https://kidshealth.org/es/teens/deal-with-anger-esp.html)_
 
 
-![Lidiar con el enojo](https://cdn.bioguia.com/embed/08444409d11abe29fa4535278f461529693225/consejos_enojo_budismo_portada.jpg)
+![Lidiar con el enojo](https://www.sanidad.es/wp-content/uploads/2019/01/1-850x585-696x479.jpg)
 
 
 ### Referencias
