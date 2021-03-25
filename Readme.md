@@ -6,7 +6,7 @@ Para poder empezar de lleno hablando de si es necesaria o no, es esencial saber 
 La violencia es el abuso de poder, ya que mientras más poder y control se tiene más violencia se puede generar, aunque también hay ocasiones en que la violencia ocurre también de abajo hacia arriba, como por ejemplo, una ama de casa que le exige dinero a su esposo y hace que trabaje horas extra. Al practicar la violencia, se falta al respeto hacia quien o quienes se le esté haciendo.
 
 
-![Violencia emocional y verbal](https://files.womenshealth.gov/files/images/rs_emotional-verbal.jpg?TEBi1Y4uMT15_.zSwE8qkb9Dh07nKhCc)
+![Violencia emocional y verbal](rs_emotional-verbal.jpg)
 
 
 Existen tipos de violencia, entre las más comunes esta la familiar o doméstica, donde puede ser física o psicológica y ocurre en todas las clases sociales, porque se genera con la violencia el poder y el control en la casa, en la mayoría de los casos sucede por la falta de sustento económico y eso provoca una dependencia, lo que hace que sea más difícil separarse de la pareja. Muchas veces las personas que sufren esto se lo callan por miedo, vergüenza, hasta en ciertas situaciones llegan a perder la vida sin contarle a nadie su secreto.
